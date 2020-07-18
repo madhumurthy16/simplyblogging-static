@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 10 Arts and Crafts Projects to do with Kids	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A Custom WordPress Blog</description>
+	<lastBuildDate>Thu, 18 Jun 2020 19:15:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>
+		By: admin		</title>
+		<link>./../comment-page-1/index.html#comment-24</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:17:01 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=70#comment-24</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../comment-page-1/index.html#comment-20&quot;&gt;WP User&lt;/a&gt;.
+
+Response to the reply.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../comment-page-1/index.html#comment-20">WP User</a>.</p>
+<p>Response to the reply.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: WP User		</title>
+		<link>./../comment-page-1/index.html#comment-21</link>
+
+		<dc:creator><![CDATA[WP User]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:14:17 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=70#comment-21</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../comment-page-1/index.html#comment-17&quot;&gt;admin&lt;/a&gt;.
+
+Reply to the second comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../comment-page-1/index.html#comment-17">admin</a>.</p>
+<p>Reply to the second comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: WP User		</title>
+		<link>./../comment-page-1/index.html#comment-20</link>
+
+		<dc:creator><![CDATA[WP User]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:13:58 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=70#comment-20</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../comment-page-1/index.html#comment-16&quot;&gt;admin&lt;/a&gt;.
+
+Reply to the first comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../comment-page-1/index.html#comment-16">admin</a>.</p>
+<p>Reply to the first comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>./../comment-page-1/index.html#comment-17</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:01:50 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=70#comment-17</guid>
+
+					<description><![CDATA[Second comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>Second comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>./../comment-page-1/index.html#comment-16</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 18:59:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=70#comment-16</guid>
+
+					<description><![CDATA[First comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>First comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

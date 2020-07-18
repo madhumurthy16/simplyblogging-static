@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 5 Yoga Poses for a Stronger Core	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A Custom WordPress Blog</description>
+	<lastBuildDate>Thu, 18 Jun 2020 19:15:48 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>
+		By: WP User		</title>
+		<link>./../comment-page-1/index.html#comment-23</link>
+
+		<dc:creator><![CDATA[WP User]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:15:23 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=23#comment-23</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../comment-page-1/index.html#comment-19&quot;&gt;admin&lt;/a&gt;.
+
+Reply to the second comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../comment-page-1/index.html#comment-19">admin</a>.</p>
+<p>Reply to the second comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: WP User		</title>
+		<link>./../comment-page-1/index.html#comment-22</link>
+
+		<dc:creator><![CDATA[WP User]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:15:03 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=23#comment-22</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../comment-page-1/index.html#comment-18&quot;&gt;admin&lt;/a&gt;.
+
+Reply to the first comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../comment-page-1/index.html#comment-18">admin</a>.</p>
+<p>Reply to the first comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>./../comment-page-1/index.html#comment-19</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:11:29 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=23#comment-19</guid>
+
+					<description><![CDATA[Second comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>Second comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: admin		</title>
+		<link>./../comment-page-1/index.html#comment-18</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2020 19:11:03 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=23#comment-18</guid>
+
+					<description><![CDATA[First comment of the post.]]></description>
+			<content:encoded><![CDATA[<p>First comment of the post.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
